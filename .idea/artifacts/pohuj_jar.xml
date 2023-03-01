@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pohuj:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pohuj_jar</output-path>
+    <root id="archive" name="pohuj.jar">
+      <element id="module-output" name="pohuj" />
+    </root>
+  </artifact>
+</component>
