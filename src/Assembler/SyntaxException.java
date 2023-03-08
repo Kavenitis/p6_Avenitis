@@ -1,2 +1,9 @@
-package Assembler;public class SyntaxException {
+package Assembler;
+
+public class SyntaxException extends Exception {
+
+    public SyntaxException(String message) {
+        super(message);
+    }
 }
+
